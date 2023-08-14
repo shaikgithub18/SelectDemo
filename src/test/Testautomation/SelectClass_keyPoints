@@ -1,0 +1,2 @@
+getOptions() : it gets the list of all options belonging to the select tag.
+isMultiple() : this tells whether select statement supports multiple selecting options or not, it returns only true or false.
